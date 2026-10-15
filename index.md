@@ -3,9 +3,28 @@ layout: default
 title: Your research briefing library
 ---
 
-A growing field guide to **phonons, phonon polaritons, twist, and multilayer van der Waals heterostructures**, written for a senior scientist who wants physical intuition and literature context without textbook-length derivations.
+A growing field guide to **phonons, phonon polaritons, twist, and multilayer van der Waals heterostructures**.
 
 **Start here:** [Briefing 01 — Reciprocal space]({{ '/lessons/01-reciprocal-space/' | relative_url }}) → [Briefing 02 — Normal modes]({{ '/lessons/02-normal-modes/' | relative_url }}) → [Briefing 03 — Acoustic and optical phonons]({{ '/lessons/03-acoustic-optical/' | relative_url }}).
+
+
+1. Polaritons in van der Waals materials
+Basov, Fogler & García de Abajo · Science · 2016
+https://fogler.physics.ucsd.edu/bib/Basov2016PIV.pdf
+Probably the best conceptual starting point. Explains how light couples to collective electronic, vibrational, and excitonic degrees of freedom, and why dimensionality changes the resulting modes.
+Focus on: The distinction between plasmons, phonons, and polaritons; dispersion; field confinement; and physical interpretation of polariton imaging.
+
+3. Polaritons in layered two-dimensional materials
+Low et al. · Nature Materials · 2017
+https://www.nature.com/articles/nmat4792
+A more substantial, systematic treatment of the optical response of layered materials. This is the paper I'd keep as a long-term reference.
+Focus on: Dielectric response, plasmon and phonon polariton dispersion, anisotropy, and how layers and interfaces modify the modes.
+
+5. Planar hyperbolic polaritons in 2D van der Waals materials
+Nature Communications · 2024
+https://www.nature.com/articles/s41467-023-43992-8
+Excellent bridge to modern multilayer research, especially anisotropic phonon polaritons, twisted stacks, and unusual propagation phenomena.
+Focus on: Isofrequency contours, hyperbolic versus elliptical dispersion, twist-induced topology changes, and polariton canalization.
 
 ## How the library works
 
