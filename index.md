@@ -14,13 +14,13 @@ Basov, Fogler & García de Abajo · Science · 2016
 Probably the best conceptual starting point. Explains how light couples to collective electronic, vibrational, and excitonic degrees of freedom, and why dimensionality changes the resulting modes.
 Focus on: The distinction between plasmons, phonons, and polaritons; dispersion; field confinement; and physical interpretation of polariton imaging.
 
-3. <a href="https://www.nature.com/articles/nmat4792">Polaritons in layered two-dimensional materials</a> 
+2. <a href="https://www.nature.com/articles/nmat4792">Polaritons in layered two-dimensional materials</a> 
 
 Low et al. · Nature Materials · 2017
 A more substantial, systematic treatment of the optical response of layered materials. This is the paper I'd keep as a long-term reference.
 Focus on: Dielectric response, plasmon and phonon polariton dispersion, anisotropy, and how layers and interfaces modify the modes.
 
-5. <a href="https://www.nature.com/articles/s41467-023-43992-8">Planar hyperbolic polaritons in 2D van der Waals materials</a>
+3. <a href="https://www.nature.com/articles/s41467-023-43992-8">Planar hyperbolic polaritons in 2D van der Waals materials</a>
 
 Nature Communications · 2024
 Excellent bridge to modern multilayer research, especially anisotropic phonon polaritons, twisted stacks, and unusual propagation phenomena.
