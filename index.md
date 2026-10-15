@@ -8,7 +8,7 @@ A growing field guide to **phonons, phonon polaritons, twist, and multilayer van
 **Start here:** [Briefing 01 — Reciprocal space]({{ '/lessons/01-reciprocal-space/' | relative_url }}) → [Briefing 02 — Normal modes]({{ '/lessons/02-normal-modes/' | relative_url }}) → [Briefing 03 — Acoustic and optical phonons]({{ '/lessons/03-acoustic-optical/' | relative_url }}).
 
 
-1. Polaritons in van der Waals materials
+1.<a href="https://fogler.physics.ucsd.edu/bib/Basov2016PIV.pdf">Polaritons in van der Waals materials</a> 
 Basov, Fogler & García de Abajo · Science · 2016
 https://fogler.physics.ucsd.edu/bib/Basov2016PIV.pdf
 Probably the best conceptual starting point. Explains how light couples to collective electronic, vibrational, and excitonic degrees of freedom, and why dimensionality changes the resulting modes.
