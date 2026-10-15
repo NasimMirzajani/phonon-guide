@@ -9,8 +9,8 @@ A growing field guide to **phonons, phonon polaritons, twist, and multilayer van
 
 
 1.<a href="https://fogler.physics.ucsd.edu/bib/Basov2016PIV.pdf">Polaritons in van der Waals materials</a> 
+
 Basov, Fogler & García de Abajo · Science · 2016
-https://fogler.physics.ucsd.edu/bib/Basov2016PIV.pdf
 Probably the best conceptual starting point. Explains how light couples to collective electronic, vibrational, and excitonic degrees of freedom, and why dimensionality changes the resulting modes.
 Focus on: The distinction between plasmons, phonons, and polaritons; dispersion; field confinement; and physical interpretation of polariton imaging.
 
