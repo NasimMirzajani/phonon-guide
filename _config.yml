@@ -1,0 +1,5 @@
+title: Phonons & Polaritons — Research Guide
+markdown: kramdown
+baseurl: /phonon-guide
+exclude:
+  - README.md
