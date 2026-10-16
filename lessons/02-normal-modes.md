@@ -23,7 +23,7 @@ The eigenvalue gives squared phonon frequency and the eigenvector gives relative
 - **Shear (C):** Sheets slide laterally against each other. Restoring stiffness depends strongly on the lateral corrugation of the interlayer potential and hence stacking registry.
 - **Layer-breathing (LBM):** Sheets move toward and away from each other. The stiffness reflects the local curvature of the binding energy versus interlayer separation.
 
-For rigid sheets with areal mass densities \(\mu_1,\mu_2\) and a harmonic interlayer spring constant per area \(K\), the nonzero relative-motion frequency is
+For rigid sheets with areal mass densities \\(\mu_1,\mu_2\\) and a harmonic interlayer spring constant per area \\(K\\), the nonzero relative-motion frequency is
 
 <div class="equation">\[\omega_{\rm rel}^{2}=K\left(\frac{1}{\mu_1}+\frac{1}{\mu_2}\right)\]</div>
 
