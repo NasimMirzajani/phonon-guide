@@ -27,11 +27,11 @@ For rigid sheets with areal mass densities \(\mu_1,\mu_2\) and a harmonic interl
 
 <div class="equation">\[\omega_{\rm rel}^{2}=K\left(\frac{1}{\mu_1}+\frac{1}{\mu_2}\right)\]</div>
 
-Choose lateral or out-of-plane \(K\) for shear or breathing, respectively. This is a local-curvature result, **not** a formula based on total adhesion energy.
+Choose lateral or out-of-plane \\(K\\) for shear or breathing, respectively. This is a local-curvature result, **not** a formula based on total adhesion energy.
 
 ## 3. What changes with layer number?
 
-An \(N\)-layer rigid-sheet stack has \(N-1\) relative-layer branches per independent displacement polarization. Modes form families of different displacement patterns. Some are Raman-visible, some IR-visible, and some silent, depending on symmetry and light coupling. The mere existence of a mechanical normal mode does not guarantee a Raman line.
+An \\(N\\)-layer rigid-sheet stack has \(N-1\) relative-layer branches per independent displacement polarization. Modes form families of different displacement patterns. Some are Raman-visible, some IR-visible, and some silent, depending on symmetry and light coupling. The mere existence of a mechanical normal mode does not guarantee a Raman line.
 
 ## 4. Why twist is subtle
 
