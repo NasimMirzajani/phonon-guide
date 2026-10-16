@@ -1,3 +1,13 @@
+---
+layout: default
+lesson_number: 4
+title: "Crystal Symmetry and Phonon Selection Rules: Why Stacking Changes What We Can Observe"
+short_title: "Crystal Symmetry and Phonon Selection Rules"
+section: "Week 1 · Essential solid-state foundations"
+read_time: "8–10 min"
+permalink: /lessons/04-crystal-symmetry-and-phonon-selection-rules/
+---
+
 # Morning Physics Briefing 04
 ## Crystal Symmetry and Phonon Selection Rules: Why Stacking Changes What We Can Observe
 
