@@ -27,11 +27,11 @@ Today we'll connect three concepts that are often introduced separately: phonon 
 
 Recall from yesterday that lattice vibrations are eigenvectors of the dynamical matrix.
 
-Suppose a primitive unit cell contains <span class="math">\(N\)</span> atoms.
+Suppose a primitive unit cell contains \\(N\\)atoms.
 
-Each atom can move in three spatial directions, so the crystal has <span class="math">\(3N\)</span> phonon branches.
+Each atom can move in three spatial directions, so the crystal has \\(3N\) phonon branches.
 
-Three of these are acoustic branches. The remaining <span class="math">\(3N-3\)</span> are optical branches.
+Three of these are acoustic branches. The remaining \\(3N-3\) are optical branches.
 
 Why three acoustic branches?
 
@@ -88,7 +88,7 @@ The third is distinctive:
 
 **ZA — Flexural acoustic.** Atomic motion is perpendicular to the atomic plane.
 
-The name ZA reflects the conventional designation of the out-of-plane direction as <span class="math">\(z\)</span>.
+The name ZA reflects the conventional designation of the out-of-plane direction as \\(z\).
 
 ### Why ZA phonons are special
 
@@ -101,7 +101,7 @@ For an ideal, free-standing, tensionless membrane with rotational invariance, th
 \]
 </div>
 
-Here, <span class="math">\(\kappa\)</span> is the bending rigidity, <span class="math">\(\rho_{2D}\)</span> is the areal mass density, and <span class="math">\(q\)</span> is the magnitude of the in-plane wavevector.
+Here, \\(\kappa\) is the bending rigidity, \\(\rho_{2D}\) is the areal mass density, and \\(q\) is the magnitude of the in-plane wavevector.
 
 By contrast, ordinary in-plane acoustic phonons have approximately linear dispersion near Γ.
 
@@ -173,7 +173,7 @@ A schematic expression for the mode-induced polarization is
 \]
 </div>
 
-where <span class="math">\(\mathbf Z_\kappa^*\)</span> is the Born effective charge tensor and <span class="math">\(\mathbf u_\kappa\)</span> is the displacement of atom <span class="math">\(\kappa\)</span>. The appropriate normalization depends on whether polarization is expressed per unit volume or area.
+where \\(\mathbf Z_\kappa^*\) is the Born effective charge tensor and \\(\mathbf u_\kappa\) is the displacement of atom \\(\kappa\). The appropriate normalization depends on whether polarization is expressed per unit volume or area.
 
 The central point is that **the displacement pattern and the effective charges together determine whether a phonon creates a macroscopic electric polarization**.
 
@@ -227,8 +227,8 @@ A useful experimental and theoretical example comes from the thickness dependenc
 
 Two prominent modes are:
 
-- The out-of-plane <span class="math">\(A_{1g}\)</span> mode in bulk-like notation, corresponding to <span class="math">\(A_1'\)</span> in an isolated monolayer.
-- The in-plane <span class="math">\(E_{2g}^{1}\)</span> mode in bulk-like notation, corresponding to <span class="math">\(E'\)</span> in an isolated monolayer.
+- The out-of-plane \\(A_{1g}\) mode in bulk-like notation, corresponding to \\(A_1'\) in an isolated monolayer.
+- The in-plane \\(E_{2g}^{1}\) mode in bulk-like notation, corresponding to \\(E'\) in an isolated monolayer.
 
 As the number of layers increases, the out-of-plane mode generally shifts toward higher frequency.
 
