@@ -1,3 +1,13 @@
+---
+layout: default
+lesson_number: 3
+title: "Acoustic and optical phonons: What actually makes a lattice vibration couple to light?"
+short_title: "Acoustic and optical phonons"
+section: "Week 1 · Essential solid-state foundations"
+read_time: "8–10 min"
+permalink: /lessons/03-acoustic-optical/
+---
+
 # Morning Physics Briefing 03
 ### Acoustic and optical phonons: What actually makes a lattice vibration couple to light?
 
