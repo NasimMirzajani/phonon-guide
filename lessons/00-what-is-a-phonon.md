@@ -12,13 +12,13 @@ The single most important conceptual distinction is that **a phonon is a quantiz
 
 Imagine a crystal containing many atoms coupled by interatomic forces. When one atom moves, it affects its neighbors. The collective system therefore has particular patterns of motion—normal modes—with well-defined frequencies.
 
-Each normal mode is characterized by a wavevector \(\mathbf q\) and a branch index \(\nu\). Quantum mechanics tells us that the energy of these vibrational modes comes in discrete units:
+Each normal mode is characterized by a wavevector \\(\mathbf q\\) and a branch index \\(\nu\\). Quantum mechanics tells us that the energy of these vibrational modes comes in discrete units:
 
 $$
 E_{n,\mathbf q\nu}=\left(n+\frac12\right)\hbar\omega_\nu(\mathbf q)
 $$
 
-Here, \(\omega_\nu(\mathbf q)\) is the mode frequency, \(n\) is the occupation number, and \(\hbar\) is the reduced Planck constant.
+Here, \\(\omega_\nu(\mathbf q)\\) is the mode frequency, \(n\) is the occupation number, and \(\hbar\) is the reduced Planck constant.
 
 A phonon corresponds to one quantum of excitation in one such mode.
 
@@ -26,7 +26,7 @@ A phonon corresponds to one quantum of excitation in one such mode.
 
 Acoustic modes involve long-wavelength displacements in which neighboring atoms move approximately together. Their frequencies approach zero as \(q\) approaches zero.
 
-Optical modes involve relative atomic motion within a unit cell. Their frequencies can remain finite at \(q=0\).
+Optical modes involve relative atomic motion within a unit cell. Their frequencies can remain finite at \\(q=0\\).
 
 This distinction is crucial for polaritons.
 
