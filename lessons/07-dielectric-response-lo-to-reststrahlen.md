@@ -158,7 +158,7 @@ Here:
 
 - **ω** is the applied electromagnetic angular frequency.
 
-- **γ\_j** is the phenomenological damping rate.
+- **γ\_j** is the phenomenological damping rate.\\
 
 The model assumes one dominant infrared-active oscillator for the chosen polarization.
 
