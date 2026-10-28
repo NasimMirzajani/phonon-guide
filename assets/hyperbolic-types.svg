@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 400" role="img" aria-label="Uniaxial hyperbolic dispersion">
+<rect width="960" height="400" fill="#f8fafc"/>
+<text x="38" y="44" font-family="Arial,sans-serif" font-size="25" font-weight="bold" fill="#172b4d">Uniaxial hyperbolic dispersion</text>
+<text x="38" y="75" font-family="Arial,sans-serif" font-size="15" fill="#52627a">Schematic cross-sections of the two sign combinations</text>
+<text x="90" y="125" font-family="Arial,sans-serif" font-size="17" fill="#243a56">Type I</text><text x="550" y="125" font-family="Arial,sans-serif" font-size="17" fill="#243a56">Type II</text><path d="M240 155 Q90 230 240 320 M240 155 Q390 230 240 320" stroke="#318aaf" stroke-width="5" fill="none"/><path d="M530 165 Q780 240 530 320 M870 165 Q620 240 870 320" stroke="#ba6179" stroke-width="5" fill="none"/><text x="98" y="355" font-family="Arial,sans-serif" font-size="15" fill="#243a56">ε in-plane &gt; 0; ε out-of-plane &lt; 0</text><text x="558" y="355" font-family="Arial,sans-serif" font-size="15" fill="#243a56">ε in-plane &lt; 0; ε out-of-plane &gt; 0</text>
+</svg>
